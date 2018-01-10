@@ -1,4 +1,4 @@
-# Scripts for spectra of topologicla slab, wire and particle
+# Scripts for spectra of topological slab, wire and particle
 Coarse-grained tight-binding model of Bi2Se3 topological insulator slab, wire and particle.
 
 The slab.m file can be used to see the Dirac cone on the surface of a planar slab.
